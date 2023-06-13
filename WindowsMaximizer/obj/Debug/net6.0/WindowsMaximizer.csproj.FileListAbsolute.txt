@@ -1,0 +1,15 @@
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\bin\Debug\net6.0\WindowsMaximizer.exe
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\bin\Debug\net6.0\WindowsMaximizer.deps.json
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\bin\Debug\net6.0\WindowsMaximizer.runtimeconfig.json
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\bin\Debug\net6.0\WindowsMaximizer.dll
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\bin\Debug\net6.0\WindowsMaximizer.pdb
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.csproj.AssemblyReference.cache
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.AssemblyInfoInputs.cache
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.AssemblyInfo.cs
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.csproj.CoreCompileInputs.cache
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.dll
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\refint\WindowsMaximizer.dll
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.pdb
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\WindowsMaximizer.genruntimeconfig.cache
+D:\Workplace\windowsmaximizer\windowsmaximizer\WindowsMaximizer\obj\Debug\net6.0\ref\WindowsMaximizer.dll

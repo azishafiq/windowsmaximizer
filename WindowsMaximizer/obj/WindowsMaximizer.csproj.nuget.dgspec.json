@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\WindowsMaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj": {}
+    "D:\\Workplace\\windowsmaximizer\\windowsmaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\WindowsMaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj": {
+    "D:\\Workplace\\windowsmaximizer\\windowsmaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\WindowsMaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj",
+        "projectUniqueName": "D:\\Workplace\\windowsmaximizer\\windowsmaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj",
         "projectName": "WindowsMaximizer",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\WindowsMaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj",
+        "projectPath": "D:\\Workplace\\windowsmaximizer\\windowsmaximizer\\WindowsMaximizer\\WindowsMaximizer.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\WindowsMaximizer\\WindowsMaximizer\\obj\\",
+        "outputPath": "D:\\Workplace\\windowsmaximizer\\windowsmaximizer\\WindowsMaximizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
