@@ -7,8 +7,14 @@ using static WindowsMaximizer.Helper;
 
 class Program
 {
-    static void Main()
+    static void Main() 
     {
+        int screenWidth = Windows.GetSystemMetrics(SM_CXSCREEN);
+        int screenHeight = Windows.GetSystemMetrics(SM_CYSCREEN);
+
+        int thresholdWidth = (int)(screenWidth * 0.2); // 20% of screen width
+        int thresholdHeight = (int)(screenHeight * 0.2); // 20% of screen height
+
 
         Windows.EnumWindows((IntPtr hWnd, IntPtr lParam) =>
         {
@@ -33,7 +39,7 @@ class Program
                     int windowHeight = windowRect.Bottom - windowRect.Top;
 
                     // Check if window is smaller than a threshold size
-                    if (windowWidth > 100 && windowHeight > 100)
+                    if (windowWidth > thresholdWidth && windowHeight > thresholdHeight)
                     {
                         WINDOWPLACEMENT placement = new WINDOWPLACEMENT();
                         placement.length = Marshal.SizeOf(placement);
@@ -41,10 +47,6 @@ class Program
 
                         placement.showCmd = SW_SHOWMAXIMIZED;
                         Windows.SetWindowPlacement(hWnd, ref placement);
-
-                        int style = Windows.GetWindowLong(hWnd, GWL_STYLE);
-                        if ((style & WS_BORDER) != 0 || (style & WS_THICKFRAME) != 0)
-                            Windows.SetWindowLong(hWnd, GWL_STYLE, style & ~(WS_BORDER | WS_THICKFRAME));
                     }
                 }
             }

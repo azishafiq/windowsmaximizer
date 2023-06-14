@@ -14,6 +14,8 @@ namespace WindowsMaximizer
 
         // Window placement constants
         public const int SW_SHOWMAXIMIZED = 3;
+        public const int SM_CXSCREEN = 0;
+        public const int SM_CYSCREEN = 1;
 
         // Delegate for EnumWindows
         public delegate bool EnumWindowsProc(IntPtr hWnd, IntPtr lParam);
